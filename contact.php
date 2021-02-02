@@ -1,23 +1,3 @@
-<form method="post">
-    <div class="fields">
-        <div class="field name">
-            <input type="text" name="name" placeholder="Name, Company" required>
-        </div>
-
-        <div class="field email">
-            <input type="email" name="email" placeholder="E-mail"  required>
-        </div>
-    </div>
-
-        <div class="field textarea">
-            <textarea name="message" placeholder="Project description.." required></textarea>
-        </div>
-
-        <div class="button">
-            <button type="submit">Send</button>
-        </div>
-</form>
-
 <?php
     if(isset($_POST['message'])){
         $entete  = 'MIME-Version: 1.0' . "\r\n";
