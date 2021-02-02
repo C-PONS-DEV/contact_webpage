@@ -15,7 +15,7 @@ Installation:
 
     - In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/website_base
 
-    - Open the contact.php with a web browser
+    - Open the index.html with a web browser not in localhost for sending the mail
     
 Features :
 
