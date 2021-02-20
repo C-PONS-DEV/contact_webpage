@@ -13,7 +13,7 @@ Contact email: contact@clement-pons.com
 
 Installation:
 
-    - In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/website_base
+    - In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/contact_webpage
 
     - Open the index.html with a web browser not in localhost for sending the mail
     
